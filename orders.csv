@@ -1,0 +1,10 @@
+order_id,customer,items,total,category
+101,Alice,Laptop|Mouse,1200,Electronics
+102,Bob,Phone|Headphones,800,Electronics
+103,Charlie,Desk|Chair,350,Furniture
+104,Alice,Monitor,300,Electronics
+105,Bob,Laptop,1200,Electronics
+106,Dave,Coffee Maker,100,Home
+107,Charlie,Bookshelf,150,Furniture
+108,Sarah,Printer|Paper,250,Office
+109,Sarah,Laptop,1100,Electronics
