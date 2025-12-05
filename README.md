@@ -1,5 +1,9 @@
 # customer-orders-analysis
 #  Customer Orders Analysis Pipeline
+#Customer Orders Analysis
+ Examine customer orders with Python data structures to classify 
+products, find buying patterns, and gain insights on popular items, 
+top customers, and category trends.
 
 A Python-based data analysis tool that extracts, cleans, and visualizes customer transaction data. This project demonstrates a full **ETL (Extract, Transform, Load)** pipeline using the Pandas library.
 
